@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CENG webside code (to edit as your own)"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Q2S Website"
+	}
+}
